@@ -1,0 +1,5 @@
+co_code|Prowess company code|Code
+company_name|Prowess company name|Text
+nse_symbol|NSE symbol|Text
+nse_first_traded_date|First trading date on NSE|Date
+nse_suspended_from_date|Date of suspension on NSE|Date

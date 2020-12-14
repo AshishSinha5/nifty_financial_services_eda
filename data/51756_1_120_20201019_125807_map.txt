@@ -1,0 +1,10 @@
+co_code|Prowess company code|Code
+company_name|Prowess company name|Text
+co_stkdate|Company Trading Date|Date
+nse_opening_price|NSE opening price|Indian Rupee
+nse_high_price|NSE high price|Indian Rupee
+nse_low_price|NSE low price|Indian Rupee
+nse_closing_price|NSE closing price|Indian Rupee
+nse_returns|NSE returns|Times
+nse_traded_qty|NSE traded quantity|Nos.
+nse_no_of_trans|NSE number of transactions|Nos.
